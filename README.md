@@ -1,3 +1,7 @@
+## Theme Example
+
+![Imgur](http://i.imgur.com/xrPTdK0.png)
+
 ## Integration Instructions
 
 1) Open your terminal, or when you have your Finder open, tap `Shift+cmd+G`  
