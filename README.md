@@ -1,4 +1,4 @@
-##Integration Instructions
+## Integration Instructions
 
 1) Open your terminal, or when you have your Finder open, tap `Shift+cmd+G`  
 2) Navigate to the following folder: `~/Library/Developer/Xcode/UserData/FontAndColorThemes/
