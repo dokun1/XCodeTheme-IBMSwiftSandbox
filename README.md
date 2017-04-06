@@ -1,6 +1,6 @@
 ## Theme Example
 
-![Imgur](http://i.imgur.com/xrPTdK0.png)
+![Imgur](http://i.imgur.com/acfKTlt.png)
 
 ## Integration Instructions
 
