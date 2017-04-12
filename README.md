@@ -23,7 +23,6 @@ If you would like to make an update to an existing color scheme, consider creati
 ### Carbon Dark
 ![Imgur](http://i.imgur.com/G4CbWWh.png)
 
-
 ## Integration Instructions
 
 1) Open your terminal, or when you have your Finder open, tap `Shift+cmd+G`  
